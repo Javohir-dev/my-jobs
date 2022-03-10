@@ -1,4 +1,4 @@
-# ! My jobs:
+# ! My jobs :
 # ? 1-Mashg'ulot
 otam = {
     'ism':'azimjon',
